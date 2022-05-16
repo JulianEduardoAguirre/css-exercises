@@ -1,0 +1,16 @@
+.boton-uno,
+.boton-dos {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+    border-style: groove;
+    border-color: #808080;
+}
+
+.boton-uno {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.boton-dos {
+    background-color: #ffff00;
+}
